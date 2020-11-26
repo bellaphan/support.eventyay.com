@@ -12,13 +12,13 @@ In the first step, you will need to log into `Eventyay` using your `username` an
 
 After, select `manage event`, this can be found on the top of right hand corner by selecting the drop down menu. 
 
-![Cancel ticket order](images/Manage-events-bar.png)
+![Cancel ticket order](/images/Manage-events-bar.png)
 
 ## Step 3: Event management
 
-Then, choose the event where you have tickets needed to be cancelled, select `edit`. 
+Then, choose the event where you have tickets needed to be cancelled, select `Event Dashboard`. 
 
-![Cancel ticket order]
+![Cancel ticket order](/images/How-to-cancel-a-ticket-order-6.png)
 
 ## Step 4: Ticket cancellation
 
