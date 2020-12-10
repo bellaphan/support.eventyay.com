@@ -28,7 +28,7 @@ This will take you to the event management main page. It is also the place where
 
 ![Report on sales](/images/How-to-view-reports-on-sales-and-registered-attendees-1.png)
 
-On the left hand corner, select orders, this will take you to the overview sale page. For more details in terms of attendees or buyers information, you can also select `orders` which is located on your left hand side. 
+On the left hand corner, select orders, this will take you to the overview sale page. For more details in terms of attendees or buyers information, you can also select `attendees` which is located on your left hand side. 
 
 ![Report on sales](/images/How-to-view-reports-on-sales-and-registered-attendees-2.png)
 
