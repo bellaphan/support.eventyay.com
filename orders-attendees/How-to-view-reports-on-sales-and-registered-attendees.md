@@ -27,6 +27,6 @@ This will take you to the event management main page. It is also the place where
 
 On the left hand corner, select orders. This will take you to the overview sale page. 
 
-![Report on sales](/images/How-to-view-reports-on-sales-and-registered-attendees-2.png)
+![Report on sales](/images/How-to-view-reports-on-sales-and-registered-attendees-1.png)
 
 
