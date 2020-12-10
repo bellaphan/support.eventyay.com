@@ -24,7 +24,8 @@ On the main menu bar, you can see the `tickets` option, select `tickets` to proc
 This will take you to the event management main page. It is also the place where you can have an overall look of your sales or orders. In addition, you can also see from `cancelled`, `pending`, `expire`, `placed` to `complete`. You can see the total number of tickets placed in each category as well as the amount of payment received for each type.  
 
 ![Report on sales](/images/How-to-view-reports-on-sales-and-registered-attendees-1.png)
-
 On the left hand corner, select orders. This will take you to the overview sale page. 
+
+![Report on sales](/images/How-to-view-reports-on-sales-and-registered-attendees-1.png)
 
 
