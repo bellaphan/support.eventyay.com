@@ -1,9 +1,12 @@
-Hello, 
+# How to accept confirm reject speaker submissions?
 
-this article is not yet available. Our team is working hard to answer all questions. We will be adding this article soon. 
+Step 1:
 
-Please check back again in a few days.
+Step 2:
 
-If you are interested in helping to create the documentation for the project, please join us on Github [here](https://github.com/fossasia/support.eventyay.com).
+Step 3:
 
-Thank you!
+Step 4:
+
+Step 5:
+
