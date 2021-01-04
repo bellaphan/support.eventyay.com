@@ -26,7 +26,7 @@ When you are in the the `speakers management page`, you are able to view your li
 In order to accept, confirm, or reject a speaker submission, select the yellow button that states `Pending`, you will immediately see the drop down menu. 
 ![accept confirm reject speaker submissions](/images/How-to-accept-confirm-reject-speaker-submissions-4.png)
 
-Select confirm, accept, reject or withdrawn once you have made your decision about the submission. 
+Select confirmed, accepted, rejected or withdrawn once you have made your decision about the submission. 
 ![accept confirm reject speaker submissions](/images/How-to-accept-confirm-reject-speaker-submissions-5.png)
 
 ** Repeat the steps for other submissions. 
